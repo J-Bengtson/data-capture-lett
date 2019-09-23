@@ -34,6 +34,7 @@ em seguida a url do produto e tecle ENTER.
 
 
 exemplo de inputs válidos até o momento 12:54 - 23/09/2019 (URLS) : 
+
 https://www.netshoes.com.br/camiseta-nike-breathe-spring-masculina-grafite-HZM-0689-266
 https://www.netshoes.com.br/lampada-inteligente-para-barracas-tent-megalite-guepardo-lc0300-branco-221-9120-014	
 https://www.netshoes.com.br/bola-de-futebol-campo-adidas-starlancer-v-branco-COL-3359-014
