@@ -4,6 +4,7 @@
    
 Run : 
 
+* Necessário JRE(Java Runtime Environment) instalado
 * Acesse o diretório onde se encontra o arquivo Fazenda.jar e UML (disponível na raiz do projeto) via terminal
 * Execute o comando 
 ```bash 
@@ -19,7 +20,8 @@ Utiliza-se a biblioteca externa Jsoup e o e-commerce escolhido foi Netshoes (www
 
 Run : 
 
-* Acesse o diretorio onde se encontra o arquivo NetshoesWebScraper.jar (disponível na raiz do projeto) via terminal
+* Necessário JRE(Java Runtime Environment) instalado
+* Acesse o diretório onde se encontra o arquivo NetshoesWebScraper.jar (disponível na raiz do projeto) via terminal
 * Execute o comando :
 ```bash 
 java -jar NetshoesWebScraper.jar (URL)
@@ -30,8 +32,8 @@ java -jar NetshoesWebScraper.jar
 ```
 em seguida a url do produto e tecle ENTER.
 
-exemplo de inputs válidos até o momento 12:54 - 23/09/2019 (URLS) : 
 
+exemplo de inputs válidos até o momento 12:54 - 23/09/2019 (URLS) : 
 https://www.netshoes.com.br/camiseta-nike-breathe-spring-masculina-grafite-HZM-0689-266
 https://www.netshoes.com.br/lampada-inteligente-para-barracas-tent-megalite-guepardo-lc0300-branco-221-9120-014	
 https://www.netshoes.com.br/bola-de-futebol-campo-adidas-starlancer-v-branco-COL-3359-014
