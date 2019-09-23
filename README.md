@@ -24,8 +24,7 @@ Run :
 ```bash 
 java -jar NetshoesWebScraper.jar (URL)
 ``` 
-juntamente com a url da página referente ao produto Netshoes
-ou execute o comando
+juntamente com a url da página referente ao produto Netshoes ou execute o comando
 ```bash 
 java -jar NetshoesWebScraper.jar
 ```
