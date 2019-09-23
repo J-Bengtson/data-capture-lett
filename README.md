@@ -5,7 +5,11 @@
 Run : 
 
 * Acesse o diretório onde se encontra o arquivo Fazenda.jar e UML (disponível na raiz do projeto) via terminal
-* Execute o comando 'java -jar Fazenda.jar' e realize os procedimentos descritos.
+* Execute o comando 
+```bash 
+java -jar Fazenda.jar
+```
+e realize os procedimentos descritos.
 
 
 
@@ -23,7 +27,7 @@ java -jar NetshoesWebScraper.jar (URL)
 juntamente com a url da página referente ao produto Netshoes
 ou execute o comando
 ```bash 
-'java -jar NetshoesWebScraper.jar'
+java -jar NetshoesWebScraper.jar
 ```
 em seguida a url do produto e tecle ENTER.
 
